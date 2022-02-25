@@ -48,20 +48,6 @@
         "name": "[parameters('NodeJSWebApppName')]",
         "numberOfWorkers": 1
       }
-      //"resourceTags": {
-      //"type": "object",
-     // "defaultValue": {
-       // "owner": "Prashant Rawat",
-       // "purpose": "Tutorial"
-      //}
-    //}
-      // "resourceTags": {
-      //   "type": "object",
-      //   "defaultValue": {
-      //     "owner": "Prashant Rawat",
-      //     "purpose": "Testing and learning"
-      //   }
-      // }
     },
     {
       "name": "[parameters('NodeJSWebApppName')]",
