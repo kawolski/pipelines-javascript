@@ -47,7 +47,7 @@
       "properties": {
         "name": "[parameters('NodeJSWebApppName')]",
         "numberOfWorkers": 1
-      },
+      }
       //"resourceTags": {
       //"type": "object",
      // "defaultValue": {
